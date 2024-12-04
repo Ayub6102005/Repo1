@@ -1,4 +1,4 @@
 # Repo1
 this is first repository
 <br/>
-Author - AYUB
+Author - AYUB Khatri
